@@ -1,0 +1,28 @@
+<div class="container" style="margin-bottom:40px;">
+  <div id="about" class="row">
+    <div class="col-md-12">
+      <div class="text-center">
+        <h4 class="section-name">Who I am ?</h4>
+      </div>
+    </div>
+    <div class="col-md-9  nopadding">
+      <p>Hi, I'm Mohamed Labouardy and I'm a Software Engineer based in Bordeaux, France. I have been developing since I was 11 years old.</p>
+      <div class="row">
+        <div class="text-center connect-section">
+          <div class="connect-header" style="margin-bottom:20px;font-size:15px;font-weight:bolder;">Connect with me get updates and news.</div>
+          <ul class="social-media" style="margin:0 auto;display:inline-block">
+            <li ng-repeat="contact in $ctrl.contacts">
+              <a href="{{contact.href}}" target="_blank"><img src="assets/images/contact/{{contact.name}}"></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <br/><br/>
+      <div class="text-center"><a class="btn btn-primary btn-lg raised" href="data/resume.pdf" target="_blank">Download My Full Resume</a></div>
+    </div>
+    <div class="col-md-3 nopadding">
+      <img src="assets/images/profile.jpg" width="100%">
+      <p class="quote">"What you do today can improve all your tomorrows"</p>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,25 @@
+{
+  "labels": [
+    "Java 8",
+    "C",
+    "Spring Cloud",
+    "Bash"
+  ],
+  "datasets": [
+    {
+      "data": [50, 50, 50, 50],
+      "backgroundColor": [
+        "#FF6384",
+        "#36A2EB",
+        "#009587",
+        "#5F7C8A"
+      ],
+      "hoverBackgroundColor": [
+        "#FF6384",
+        "#36A2EB",
+        "#FF6384",
+        "#FF6384"
+      ]
+      }
+    ]
+  }

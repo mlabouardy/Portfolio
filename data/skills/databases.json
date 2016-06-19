@@ -1,0 +1,25 @@
+{
+  "labels": [
+    "MySQL",
+    "H2",
+    "PostgreSQL",
+    "MongoDB"
+  ],
+  "datasets": [
+    {
+      "data": [50, 50, 50, 50],
+      "backgroundColor": [
+        "#FF6384",
+        "#36A2EB",
+        "#009587",
+        "#5F7C8A"
+      ],
+      "hoverBackgroundColor": [
+        "#FF6384",
+        "#36A2EB",
+        "#FF6384",
+        "#36A2EB"
+      ]
+      }
+    ]
+  }

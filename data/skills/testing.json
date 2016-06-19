@@ -1,0 +1,31 @@
+{
+  "labels": [
+    "JUnit",
+    "Mockito",
+    "Selenium",
+    "Jasmin/Karma",
+    "SonarQube",
+    "JMeter"
+  ],
+  "datasets": [
+    {
+      "data": [50, 50, 50, 50, 50, 50],
+      "backgroundColor": [
+        "#FF6384",
+        "#36A2EB",
+        "#F34235",
+        "#E81D62",
+        "#9C27B0",
+        "#009688"
+      ],
+      "hoverBackgroundColor": [
+        "#FF6384",
+        "#36A2EB",
+        "#FF6384",
+        "#FF6384",
+        "#FF6384",
+        "#FF6384"
+      ]
+      }
+    ]
+  }

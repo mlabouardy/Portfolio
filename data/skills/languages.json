@@ -1,0 +1,22 @@
+{
+  "labels": [
+    "English",
+    "French",
+    "Arabic"
+  ],
+  "datasets": [
+    {
+      "data": [50, 50, 50],
+      "backgroundColor": [
+        "#FF6384",
+        "#36A2EB",
+        "#009587"
+      ],
+      "hoverBackgroundColor": [
+        "#FF6384",
+        "#36A2EB",
+        "#FF6384"
+      ]
+      }
+    ]
+  }

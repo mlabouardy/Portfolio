@@ -1,0 +1,28 @@
+{
+  "labels": [
+    "Docker",
+    "Jenkins",
+    "Git/SVN",
+    "Nexus/Artifactory",
+    "ELK Stack"
+  ],
+  "datasets": [
+    {
+      "data": [50, 50, 50, 50, 50],
+      "backgroundColor": [
+        "#FF6384",
+        "#36A2EB",
+        "#009587",
+        "#5F7C8A",
+        "#FE5621"
+      ],
+      "hoverBackgroundColor": [
+        "#FF6384",
+        "#36A2EB",
+        "#36A2EB",
+        "#36A2EB",
+        "#FF6384"
+      ]
+      }
+    ]
+  }

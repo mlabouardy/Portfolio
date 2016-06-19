@@ -1,0 +1,19 @@
+{
+  "labels": [
+    "Android",
+    "Ionic"
+  ],
+  "datasets": [
+    {
+      "data": [50, 50],
+      "backgroundColor": [
+        "#FF6384",
+        "#36A2EB"
+      ],
+      "hoverBackgroundColor": [
+        "#FF6384",
+        "#36A2EB"
+      ]
+      }
+    ]
+  }

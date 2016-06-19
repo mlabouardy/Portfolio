@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "authors": [
+    "mlabouardy <mohamed@labouardy.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.6",
+    "angular": "^1.5.7",
+    "Chart.js": "chartjs#^2.1.6",
+    "jquery": "^3.0.0",
+    "components-font-awesome": "^4.6.3"
+  }
+}

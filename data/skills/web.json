@@ -1,0 +1,25 @@
+{
+  "labels": [
+    "Spring",
+    "MEAN Stack",
+    "LAMP Stack",
+    "CMS (Drupal, Wordpress)"
+  ],
+  "datasets": [
+    {
+      "data": [50, 50, 50, 50],
+      "backgroundColor": [
+        "#FF6384",
+        "#2095F2",
+        "#4BAE4F",
+        "#FFEB3B"
+      ],
+      "hoverBackgroundColor": [
+        "#FF6384",
+        "#FF6384",
+        "#36A2EB",
+        "#FF6384"
+      ]
+      }
+    ]
+  }

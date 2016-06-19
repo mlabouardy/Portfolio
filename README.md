@@ -4,7 +4,7 @@ Developed in AngularJS, HTML 5/CSS, ChartJS
 
 ## Demo
 
-http://www.labouardy.wom
+http://www.labouardy.com
 
 ## How to
 

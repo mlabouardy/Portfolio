@@ -2,6 +2,8 @@
 
 Developed in AngularJS, HTML 5/CSS, ChartJS
 
+<img src="screenshot.png">
+
 ## Demo
 
 http://www.labouardy.com
